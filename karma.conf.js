@@ -16,6 +16,8 @@ files = [
   {pattern: 'js/lib/**/*.js', included: false},
   {pattern: 'js/models/Todo.js', included: false},
   {pattern: 'test/spec/models/TodoSpec.js', included: false},
+  {pattern: 'js/models/Patient.js', included: false},
+  {pattern: 'test/spec/models/PatientSpec.js', included: false},
 
   'test/SpecRunner.js',
 ];
